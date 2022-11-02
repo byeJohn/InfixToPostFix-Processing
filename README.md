@@ -2,7 +2,7 @@
 
    author John Nguyen
    Written October 28, 2022
-   =====================================
+
    Objective: 
    To be familiar with stack operations and applications
    

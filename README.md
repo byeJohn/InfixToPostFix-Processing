@@ -3,6 +3,8 @@
    @author John Nguyen
    Written October 28, 2022
 
+   Data Structures Assignment: HW4
+
    Objective: 
    To be familiar with stack operations and applications
    
@@ -13,3 +15,4 @@
 
    ==================================
  
+Unfinished: Evaluate the expression and display its value.

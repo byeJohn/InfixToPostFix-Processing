@@ -5,7 +5,7 @@
 
    Data Structures Assignment: HW4
 
-   Objective: 
+   #Objective: 
    To be familiar with stack operations and applications
    
    Hint:

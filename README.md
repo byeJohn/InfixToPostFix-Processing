@@ -1,10 +1,10 @@
 # PostFix
 
-/**
+
    @author John Nguyen
    Written October 28, 2022
- * =====================================
- * Objective: 
+   =====================================
+   Objective: 
    To be familiar with stack operations and applications
    
    Hint:
@@ -12,6 +12,5 @@
    the equivalent postfix listed at: 
    http://csis.pace.edu/~wolf/CS122/infix-postfix.htm 
 
- * ==================================
- */
+   ==================================
  

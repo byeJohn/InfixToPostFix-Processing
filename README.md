@@ -1,6 +1,6 @@
 ## InfixToPostFix-Processing
 
-   @author John Nguyen
+   @author John Nguyen  
    Written October 28, 2022
 
    Data Structures Assignment: HW4
@@ -11,9 +11,9 @@
    ### Hint:
    Detail algorithm for converting an infix expression to 
    the equivalent postfix listed at: 
-   http://csis.pace.edu/~wolf/CS122/infix-postfix.htm 
+   http://csis.pace.edu/~wolf/CS122/infix-postfix.htm
 
-   ==================================
- 
+   ---
+
 ### Unfinished: 
    Evaluate the expression and display its value.

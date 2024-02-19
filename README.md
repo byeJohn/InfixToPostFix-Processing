@@ -14,6 +14,3 @@
    http://csis.pace.edu/~wolf/CS122/infix-postfix.htm
 
    ---
-
-### Unfinished: 
-   Evaluate the expression and display its value.

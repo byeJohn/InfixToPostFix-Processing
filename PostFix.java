@@ -109,7 +109,7 @@ public class PostFix {
       int result = pf.evaluateFix(O);
 
       //Calulate Values
-      System.out.println("Postfix Value: " + results);
+      System.out.println("Postfix Value: " + result);
 
    }
 } // Class end

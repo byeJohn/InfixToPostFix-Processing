@@ -23,13 +23,13 @@ public class PostFix {
             stack.push(second+first);
                break;
          case'-':
-            stack.push(second*first);
+            stack.push(second-first);
                break;
          case'*':
-            stack.push(second/first);
+            stack.push(second*first);
                break;
          case'/':
-            stack.push(second-first);
+            stack.push(second/first);
                break;
       } //Switch end
       } //Else end 
@@ -103,8 +103,13 @@ public class PostFix {
       String O = postFix(exp);
       System.out.println("Postfix expression: " + O);
 
+      // Create instance of PostFix
+      PostFix pf = new PostFix();
+
+      int result = pf.evaluateFix(O);
+
       //Calulate Values
-      System.out.println("Postfix Value: ");
+      System.out.println("Postfix Value: " + results);
 
    }
 } // Class end
